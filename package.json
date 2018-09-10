@@ -1,0 +1,19 @@
+{
+  "name": "@colehart/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "Bubble and quick sort algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colehart/sorting-algorithms.git"
+  },
+  "author": "Cole Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colehart/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/colehart/sorting-algorithms#readme"
+}
